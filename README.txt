@@ -1,0 +1,1 @@
+This code fragment works with maya. On executing, it copy the shape of object A with respect to object B provided that both have the same number of vertices.
